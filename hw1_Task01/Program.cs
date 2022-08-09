@@ -4,9 +4,9 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-Console.WriteLine("Введите число:");
+Console.WriteLine("Введите целое число:");
 int num1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второе число:");
+Console.WriteLine("Введите второе целое число:");
 int num2 = Convert.ToInt32(Console.ReadLine());
 
 int max = num1;
